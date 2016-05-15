@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-   <groupId>com.dh.delivery</groupId> 
-  <artifactId>Delivery</artifactId>
+   <groupId>com.delivery</groupId> 
+  <artifactId>delivery</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging> 
   
@@ -21,10 +21,12 @@
   	<dependency>
   		<groupId>com.github.bessemHmidi</groupId>
   		<artifactId>angularBeans</artifactId>
-  		<version>1.0.2-RC2</version>
+  		<version>1.0.2-RELEASE</version>
   	</dependency>
   </dependencies>
   
-  <build><finalName>${project.artifactId}</finalName></build>
+	<build>
+		<finalName>${project.artifactId}</finalName>
+	</build>
   
 </project>

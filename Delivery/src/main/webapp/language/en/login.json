@@ -1,0 +1,22 @@
+{
+	"login": "Login",
+	"TFlogin": "Login",
+	"TFpwd": "Password",
+	"CBlangue": "Language",
+	"SWadmin": "Administrator",
+	"BTlogin": "Login",
+	"BTcspace": "Customer Space",
+	"BTaspace": "Admin Space",
+	"welcome": "Welcome",
+	"erreurnull": "The login or the password you’ve entered doesn’t match any account. For Help please contact us (support@worldsoftgroup.com).",
+	"erreurdate": "Please contact Worldsoftgroup if this message is showed (support@worldsoftgroup.com).",
+	"Lforgetpwd": "Forget Password ?",
+	"forgetpwd": "Find your account",
+	"TFmail": "E-Mail",
+	"TFtel": "Phone",
+	"BTsend": "Send",
+	"BTcancel": "Cancel",
+	"forgetpwdRequest": "Your request will be sent by email and you will have an answer soon",
+	"validEmail": "This field must be a valid email address.",
+	"required": "This field is required."
+}

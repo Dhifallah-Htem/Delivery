@@ -1,0 +1,22 @@
+{
+	"login": "تسجيل الدخول",
+	"TFlogin": "إسم مستعار",
+	"TFpwd": "كلمه السر",
+	"CBlangue": "اللغة",
+	"SWadmin": "مدير",
+	"BTlogin": "سجيل الدخول",
+	"BTcspace": "عملاء",
+	"BTaspace": "الإداريين",
+	"welcome": "مرحبا بكم",
+	"erreurnull": "اسم المستخدم أو كلمة المرور التي أدخلتها غير صحيحة",
+	"erreurdate": "الاتصال بالشركة Worldsoft (support@worldsoftgroup.com)",
+	"forgetpwd": "هل نسيت كلمة المرور",
+	"Lforgetpwd": "هل نسيت كلمة المرور",
+	"TFmail": "لبريد الإلكتروني",
+	"TFtel": "رقم الهاتف",
+	"BTsend": "إرسال",
+	"BTcancel": "إلغاء",
+	"forgetpwdRequest": "Your request will be sent by email and you will have an answer soon",
+	"validEmail": "يجب أن يكون هذا الحقل عنوان بريد إلكتروني صالح.",
+	"required": "هذا الحقل ضروري"
+}

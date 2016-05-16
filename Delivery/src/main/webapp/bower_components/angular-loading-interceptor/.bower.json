@@ -1,0 +1,25 @@
+{
+  "name": "angular-loading-interceptor",
+  "author": "Albi Zeka",
+  "description": "Angular service for loading interceptor",
+  "main": "loadingInterceptor.js",
+  "keywords": [
+    "service",
+    "loadingInterceptor",
+    "angular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albizeka/angular-loading-interceptor.git"
+  },
+  "homepage": "https://github.com/albizeka/angular-loading-interceptor",
+  "_release": "1df7c8c21c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1df7c8c21c2b50a82cfd75a837e9035adc91d2a9"
+  },
+  "_source": "https://github.com/albizeka/angular-loading-interceptor.git",
+  "_target": "*",
+  "_originalSource": "angular-loading-interceptor"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "wega-front",
+  "version": "1.0.0",
+  "authors": [
+    "Bessem Hmidi"
+  ],
+  "license": "copy right",
+  "homepage": "http://www.worldsoftgroup.com/",
+  "private": true,
+  "keywords": [
+    "AngularJS",
+    "AngularBeans",
+    "WorldSoft",
+    "wegagroup",
+    "wegaAccounts"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "1.4.9",
+    "angular-animate": "~1.4.9",
+    "angular-material": "~1.0.4",
+    "angular-google-maps": "~2.2.1",
+    "angular-local-storage": "0.2.3",
+    "angular-route": "~1.4.5",
+    "angular-sanitize": "~1.4.5",
+    "angular-simple-logger": ">=0.0.1",
+    "angular-ui-router-anim-in-out": "~1.0.2",
+    "angular-ui-select": "0.13",
+    "angulargrid": "master",
+    "animate.css": "3.4.0",
+    "c3-angular": "~0.7.1",
+    "font-awesome": "4.4.0",
+    "material-design-lite": "1.0.6",
+    "moment": "2.10.6",
+    "ng-file-upload": "9.1.2",
+    "ng-table": "~0.8.3",
+    "ng-wig": "2.2.1",
+    "pikaday-angular": "~2.0.0",
+    "sass-flex-mixin": "~1.0.1",
+    "sockjs": "~0.3.4",
+    "material-calendar": "^0.2.14",
+    "angular-loading-interceptor": "*",
+    "excellentexport": "*"
+  }
+}

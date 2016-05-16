@@ -1,0 +1,7 @@
+{
+  "name"         : "angular-loading-interceptor",
+  "version"      : "0.0.1",
+  "description"  : "Angular loading interceptor for hole app",
+  "main"         : "LoadingInterceptor.js",
+  "author"       : "Albi Zeka"
+}

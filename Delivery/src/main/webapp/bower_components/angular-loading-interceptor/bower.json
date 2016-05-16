@@ -1,0 +1,16 @@
+{
+	"name"	     : "angular-loading-interceptor",
+	"version"    : "0.0.1",
+	"author"     : "Albi Zeka",
+	"description": "Angular service for loading interceptor",
+	"main"		 : "loadingInterceptor.js",
+	"keywords"	 : [
+		"service",
+		"loadingInterceptor",
+		"angular"
+	],
+	"repository": {
+    		"type": "git",
+    		"url": "https://github.com/albizeka/angular-loading-interceptor.git"
+  	}
+}

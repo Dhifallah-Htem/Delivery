@@ -1,0 +1,22 @@
+{
+	"login": "Authentification",
+	"TFlogin": "Nom d'utilisateur",
+	"TFpwd": "Mot de passe",
+	"CBlangue": "Language",
+	"SWadmin": "Administrateur",
+	"BTlogin": "S'authentifier",
+	"BTcspace": "Espace Client",
+	"BTaspace": "Espace Administrateur",
+	"welcome": "Bienvenue",
+	"erreurnull": "Le nom d'utilisateur ou le mot de passe entré est incorrect. Contactez-Nous pour plus de detail (support@worldsoftgroup.com).",
+	"erreurdate": "SVP contactez la societe Worldsoft (support@worldsoftgroup.com)",
+	"Lforgetpwd": "Mot de passe oublié ?",
+	"forgetpwd": "Retrouvez votre compte",
+	"TFmail": "E-Mail",
+	"TFtel": "Télèphone",
+	"BTsend": "Envoyer",
+	"BTcancel": "Annuler",
+	"forgetpwdRequest": "Votre demande sera envoyée par courrier électronique et vous aurez une réponse bientôt",
+	"validEmail": "Ce champ doit être une adresse e-mail valide.",
+	"required": "Ce champ est obligatoire"
+}
